@@ -1,4 +1,5 @@
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//urdf/my_robot.urdf.xacro
+/home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//urdf/arm_gazebo.xacro
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//urdf/arm.xacro
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//urdf/common.xacro
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//launch/display.launch.xml
