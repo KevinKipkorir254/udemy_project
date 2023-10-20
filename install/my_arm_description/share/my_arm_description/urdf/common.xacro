@@ -4,8 +4,8 @@
 <xacro:property name="base_length" value="0.1"/>
 <xacro:property name="base_width" value="0.1"/>
 <xacro:property name="base_height" value="0.02"/>
-<xacro:property name="cylinder_radius" value="0.1"/>
-<xacro:property name="cylinder_length" value="0.05"/>
+<xacro:property name="cylinder_radius" value="0.02"/>
+<xacro:property name="cylinder_length" value="0.3"/>
 
     <material name="white">
         <color rgba="1 1 1 1" />
@@ -25,6 +25,10 @@
 
     <material name="red">
         <color rgba="1 0 0 1"/>
+    </material>
+
+    <material name="yellow">
+        <color rgba="1 1 0 1"/>
     </material>
 
     <xacro:macro name="box_inertia" params="m l w h xyz rpy">
