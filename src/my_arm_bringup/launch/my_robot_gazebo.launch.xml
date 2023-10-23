@@ -16,4 +16,8 @@
     <node pkg="rviz2" exec="rviz2" args="-d $(find-pkg-share my_arm_description)/rviz/my_rviz.rviz">
     </node>
 
+    
+    <include file="$(find-pkg-share my_arm_bringup)/launch/controllers.launch.py">
+    </include>
+
 </launch>
