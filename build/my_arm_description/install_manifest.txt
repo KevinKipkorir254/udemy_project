@@ -6,6 +6,7 @@
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//urdf/common.xacro
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//launch/display.launch.xml
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//config/rrbot_controllers.yaml
+/home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description//rviz/my_rviz.rviz
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/ament_index/resource_index/package_run_dependencies/my_arm_description
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/ament_index/resource_index/parent_prefix_path/my_arm_description
 /home/kevo/ros_ws/src/udemy_project/install/my_arm_description/share/my_arm_description/environment/ament_prefix_path.sh

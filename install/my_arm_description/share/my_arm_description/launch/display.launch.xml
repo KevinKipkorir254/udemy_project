@@ -12,7 +12,7 @@
     </node> 
 
     
-    <node pkg="rviz2" exec="rviz2"  args="-d $(find-pkg-share my_arm_description)/config/my_rviz.rviz">
+    <node pkg="rviz2" exec="rviz2"  args="-d $(find-pkg-share my_arm_description)/rviz/my_rviz.rviz">
     </node>
 
 </launch>
