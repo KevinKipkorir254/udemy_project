@@ -46,6 +46,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_arm_description/" TYPE DIRECTORY FILES
     "/home/kevo/ros_ws/src/udemy_project/src/my_arm_description/urdf"
     "/home/kevo/ros_ws/src/udemy_project/src/my_arm_description/launch"
+    "/home/kevo/ros_ws/src/udemy_project/src/my_arm_description/config"
     )
 endif()
 

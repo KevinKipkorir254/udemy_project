@@ -4,5 +4,7 @@
 <xacro:include filename="common.xacro" />
 <xacro:include filename="arm.xacro" />
 <xacro:include filename="arm_gazebo.xacro" />
+<xacro:include filename="ros2_control.xacro" />
+
 
 </robot>
